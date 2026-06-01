@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Netlinking - Client Summary</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">
+        <span class="logo">🔗</span>
+        <div>
+          <h1>Netlinking</h1>
+          <p>Backlink reporting dashboard</p>
+        </div>
+      </div>
+      <nav class="tabs">
+        <button class="tab active" data-view="profiles">Backlink Profiles</button>
+        <button class="tab" data-view="monthly">Monthly Reports</button>
+        <button class="tab" data-view="details">Link Details</button>
+      </nav>
+    </header>
+
+    <main>
+      <!-- ===== Profiles view ===== -->
+      <section id="view-profiles" class="view">
+        <div class="cards" id="profile-stats"></div>
+
+        <div class="toolbar">
+          <input type="search" id="search" placeholder="🔍 Search a website…" />
+          <select id="f-niche"><option value="">Niche: all</option></select>
+          <select id="f-geo"><option value="">Region: all</option></select>
+          <select id="f-quality"><option value="">Quality: all</option></select>
+          <select id="f-anchor"><option value="">Anchor: all</option></select>
+          <button id="reset" class="btn-ghost">Reset</button>
+          <button id="export" class="btn">⬇ Export CSV</button>
+        </div>
+
+        <div class="table-wrap">
+          <table id="profiles-table">
+            <thead>
+              <tr>
+                <th data-key="sr">#</th>
+                <th data-key="website">Website</th>
+                <th data-key="domainRating">DR</th>
+                <th data-key="domainAuthority">DA</th>
+                <th data-key="nicheRelevance">Niche</th>
+                <th data-key="geographicFocus">Region</th>
+                <th data-key="trafficEstimate">Traffic / month</th>
+                <th data-key="spamScore">Spam</th>
+                <th data-key="linkQuality">Quality</th>
+                <th data-key="anchorType">Suggested anchor</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+        <p class="count" id="row-count"></p>
+      </section>
+
+      <!-- ===== Monthly reports view ===== -->
+      <section id="view-monthly" class="view hidden">
+        <div id="m-toggle" class="month-toggle"></div>
+        <div id="monthly-content"></div>
+      </section>
+
+      <!-- ===== Link details view ===== -->
+      <section id="view-details" class="view hidden">
+        <div id="d-toggle" class="month-toggle"></div>
+        <div class="toolbar">
+          <input type="search" id="d-search" placeholder="🔍 URL, anchor, target…" />
+          <select id="d-target"><option value="">Target: all</option></select>
+          <button id="d-export" class="btn">⬇ Export CSV</button>
+        </div>
+        <div id="details-label" class="count"></div>
+        <div class="table-wrap">
+          <table id="details-table">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Post URL</th>
+                <th>Anchor</th>
+                <th>Target link</th>
+                <th>Status</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+        <p class="count" id="details-count"></p>
+        <div id="details-empty" class="empty hidden">
+          No link details loaded yet.
+        </div>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>

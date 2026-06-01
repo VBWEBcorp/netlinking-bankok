@@ -1,0 +1,15 @@
+[build]
+  publish = "public"
+  command = "npm run build"
+
+# Always fetch fresh data JSONs (they update with each monthly report)
+[[headers]]
+  for = "/*.json"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+# Long cache for the static favicon
+[[headers]]
+  for = "/favicon.svg"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"

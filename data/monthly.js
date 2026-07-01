@@ -131,4 +131,24 @@ export const monthly = [
       "Next milestone: w88cas.com targeting DA 13, nova88cas.com targeting DA 9, e28betz.com targeting DA 4 by end of June.",
     ],
   },
+  {
+    month: "June 2026",
+    phase: "Multi-Market Sub-Page Expansion",
+    domains: [
+      { domain: "w88cas.com", backlinks: "158", refDomains: "131", da: "12", follow: "93%", spam: "Low", status: "✓ On Track", vsPrevious: "+13 BL / +6 RD / DA +1 ↑ / +Vietnam & Bangladesh sub-pages" },
+      { domain: "nova88cas.com", backlinks: "154", refDomains: "84", da: "8", follow: "70%", spam: "Low", status: "✓ On Track", vsPrevious: "+16 BL / +12 RD / DA +1 ↑ / +Thailand sub-page" },
+      { domain: "e28betz.com", backlinks: "48", refDomains: "30", da: "3", follow: "58%", spam: "Low", status: "✓ On Track", vsPrevious: "+26 BL / +16 RD / DA +2 ↑ / follow 36%→58%" },
+    ],
+    summary:
+      "110 managed editorial placements delivered this month: 42 for nova88cas.com, 32 for w88cas.com, and 36 for e28betz.com. All 110 placements verified Live. This month executes the geographic sub-page expansion aligned with the client during the strategy meeting: each domain now targets dedicated locale sub-pages with its own localized keyword set, so link equity flows directly to the pages that convert in each market.\n\nnova88cas.com continues with Malaysia as the main focus (28 links) while activating the Thailand sub-page /th/ for the first time (14 links). Malaysia placements combine English commercial keywords (online casino Malaysia, sports betting Malaysia, judi online Malaysia, slot online Malaysia) with brand anchors (Nova88, Nova88 Malaysia) and natural anchors (click here, visit site). The new Thailand /th/ layer carries Thai-language anchors (คาสิโนออนไลน์, แทงบอลออนไลน์, สล็อตออนไลน์) plus brand anchors for local relevance. DA progressed from 7 to 8 and follow link ratio improved from 65% to 70%, both moving in the right direction.\n\nw88cas.com opens two brand-new geographic layers this month, replacing the previous Thailand-only focus: Vietnam /vi/ (16 links, Vietnamese anchors nhà cái uy tín, casino trực tuyến, cá cược thể thao, cá cược bóng đá) and Bangladesh /bn-bd (16 links, Bengali anchors অনলাইন ক্যাসিনো, স্পোর্টস বেটিং, ক্রিকেট বেটিং) alongside W88 brand anchors. The domain remains fully stabilized after the February external-link incident: DA moved from 11 to 12, spam risk held at Low, and the growth pattern is clean and progressive.\n\ne28betz.com enters its second month with the same structure confirmed for the 3-month window: homepage (21 links, brand and vertical anchors e2bet, e28betz, online betting Vietnam, Vietnam betting site, online casino Vietnam) plus the Vietnamese sub-page /vn/en/ (15 links, localized anchors Vietnam football betting, world cup 2026 betting Vietnam, nhà cái Vietnam). The dofollow correction promised last cycle has been delivered: follow link ratio improved sharply from 36% to 58%, exactly as achieved earlier on nova88cas.com. DA moved from 1 to 3 and the Ahrefs crawl is catching up to the full delivery (22 → 48 BL / 14 → 30 RD).\n\nAll three domains are now on a clean, progressive, multi-market trajectory with balanced anchor distribution and Low spam risk. See the June tab for the full backlink list (110 links).",
+    recommendations: [
+      "Continue e28betz.com at full pace for the remaining month of the confirmed 3-month window (homepage + /vn/en/), now that the dofollow ratio is corrected.",
+      "Monitor authority flow across the new sub-page layers: nova88cas.com (/my/, /th/) and w88cas.com (/vi/, /bn-bd/) to ensure balanced link equity between homepage and locale pages.",
+      "Consider activating the w88cas.com India sub-pages (/en-in/, /hi/) next cycle, previously flagged as ready, given the commercial value of that market.",
+      "Content strategy: localized SEO articles in Thai, Vietnamese and Bengali would significantly amplify the impact of the new sub-page backlinks.",
+      "Prioritize dofollow placements on e28betz.com next cycle to push the follow ratio past 65%, mirroring the nova88cas.com progression.",
+      "Maintain disavow monitoring on the closed domains (bk8smart.com, ft881.com) for residual cleanup.",
+      "Next milestones by end of July: nova88cas.com DA 9, w88cas.com DA 13, e28betz.com DA 4-5.",
+    ],
+  },
 ];

@@ -805,6 +805,119 @@ const june = `
 110|https://coilspin.com/khng-gian-th-v-ti-sng/|click here|https://e28betz.com/vn/en/|Live
 `;
 
+const july = `
+1|https://abyssslot.com/how-to-simplify-bk8-gaming-for-better|BK8|https://www.bk8cas.com/|Live
+2|https://altitudespin.com/how-to-optimize-your-bk8-performance-today|BK8|https://www.bk8cas.com/|Live
+3|https://anvilplay.com/why-do-professionals-prefer-bk8-for-advanced|BK8|https://www.bk8cas.com/|Live
+4|https://arcticslot.com/bk8-trends-that-will-define-gaming-insights|BK8|https://www.bk8cas.com/|Live
+5|https://ardorwin.com/how-to-win-more-with-bk8-essential|BK8|https://www.bk8cas.com/|Live
+6|https://argoncasino.com/how-to-choose-the-right-bk8-strategy|BK8|https://www.bk8cas.com/|Live
+7|https://armadaspin.com/the-bk8-toolkit-essential-tactics-for-winning|bk8|https://www.bk8cas.com/|Live
+8|https://astralesport.com/the-quiet-bk8-revolution-happening-in-2026|bk8|https://www.bk8cas.com/|Live
+9|https://atlasesport.com/how-to-build-a-winning-bk8-strategy|bk8|https://www.bk8cas.com/|Live
+10|https://battleesport.com/20-best-bk8-%E0%B8%AA%E0%B8%A1%E0%B8%84%E0%B8%A3-picks-for-serious|bk8 สมัคร|https://www.bk8cas.com/|Live
+11|https://beastesport.com/how-to-dominate-online-lottery-gaming-with|bk8 สมัคร|https://www.bk8cas.com/|Live
+12|https://berylslot.com/trusted-bk8-%E0%B8%AA%E0%B8%A1%E0%B8%84%E0%B8%A3-advice-for-gamblers-in|bk8 สมัคร|https://www.bk8cas.com/|Live
+13|https://blastesport.com/bk8-thai-head-to-head-essential-lotterybingo|bk8 thai|https://www.bk8cas.com/|Live
+14|https://blazonwin.com/10-bk8-thai-trends-shaping-casino-gameplay|bk8 thai|https://www.bk8cas.com/|Live
+15|https://boulderslot.com/bk8-thai-trends-that-will-define-cockfighting|bk8 thai|https://www.bk8cas.com/|Live
+16|https://brocadecasino.com/the-evolution-of-bk8-login-from-past|bk8 login|https://www.bk8cas.com/|Live
+17|https://bronzegaming.com/hidden-bk8-login-dangers-and-how-to|bk8 login|https://www.bk8cas.com/|Live
+18|https://burstspin.com/how-bk8-login-transformed-casino-gaming-strategies|bk8 login|https://www.bk8cas.com/|Live
+19|https://canyonspin.com/before-you-start-bk8-casino-read-this|bk8 casino|https://www.bk8cas.com/|Live
+20|https://cascadeslot.com/bk8-casino-survival-guide-navigating-winning-strategies|bk8 casino|https://www.bk8cas.com/|Live
+21|https://chakraslot.com/which-is-better-bk8-casino-or-traditional|bk8 casino|https://www.bk8cas.com/|Live
+22|https://chanceslot.com/where-do-the-best-bk8-sports-betting|bk8 sports betting|https://www.bk8cas.com/|Live
+23|https://chromeesport.com/the-essential-bk8-sports-betting-handbook-for|bk8 sports betting|https://www.bk8cas.com/|Live
+24|https://clashesport.com/a-bk8-sports-betting-primer-for-those|bk8 sports betting|https://www.bk8cas.com/|Live
+25|https://cobaltesport.com/pro-bk8-%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%82%E0%B8%B2-tips-from-industry-insiders|bk8 ทางเข้า|https://www.bk8cas.com/|Live
+26|https://commandslot.com/your-bk8-%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%82%E0%B8%B2-wake-up-call-understanding-winning|bk8 ทางเข้า|https://www.bk8cas.com/|Live
+27|https://crimsonesport.com/the-bk8-%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%82%E0%B8%B2-master-guide-for-ambitious|bk8 ทางเข้า|https://www.bk8cas.com/|Live
+28|https://crispwin.com/how-to-maximize-every-%E0%B9%80%E0%B8%A7%E0%B8%9A%E0%B8%9E%E0%B8%99%E0%B8%99-bk8-gaming|เว็บพนัน bk8|https://www.bk8cas.com/|Live
+29|https://crownesport.com/%E0%B9%80%E0%B8%A7%E0%B8%9A%E0%B8%9E%E0%B8%99%E0%B8%99-bk8-in-2026-still-worth-your|เว็บพนัน bk8|https://www.bk8cas.com/|Live
+30|https://cypherspin.com/does-%E0%B9%80%E0%B8%A7%E0%B8%9A%E0%B8%9E%E0%B8%99%E0%B8%99-bk8-actually-deliver-winning-strategies|เว็บพนัน bk8|https://www.bk8cas.com/|Live
+31|https://betfiestagame.com/masterful-bk8-techniques-for-advanced-gamblers-winning|BK8|https://www.bk8cas.com/|Live
+32|https://betgalaxyhq.com/how-to-set-up-bk8-casino-games|BK8|https://www.bk8cas.com/|Live
+33|https://dawnslot.com/masalah-dalam-kasino-dalam-talian-malaysia-inilah|online casino Malaysia|https://www.nova88cas.com/my/|Live
+34|https://detourspin.com/apa-saja-ciri-ciri-terbaik-kasino-dalam-talian|online casino Malaysia|https://www.nova88cas.com/my/|Live
+35|https://diamondesport.com/2026-laporan-industri-kasino-dalam-talian-malaysia|online casino Malaysia|https://www.nova88cas.com/my/|Live
+36|https://dunespin.com/4-peringkat-penguasaan-online-casino-malaysia-untuk|online casino Malaysia|https://www.nova88cas.com/my/|Live
+37|https://duskslot.com/berapa-lama-untuk-melihat-hasil-dalam-casino|online casino Malaysia|https://www.nova88cas.com/my/|Live
+38|https://dynamowin.com/sejauh-mana-selamat-judi-dalam-talian-malaysia|judi online Malaysia|https://www.nova88cas.com/my/|Live
+39|https://epochspin.com/perlawanan-judi-dalam-talian-malaysia-mengangkat-pemenang|judi online Malaysia|https://www.nova88cas.com/my/|Live
+40|https://fablegaming.com/satu-pandangan-jujur-tentang-judi-dalam-talian|judi online Malaysia|https://www.nova88cas.com/my/|Live
+41|https://feralwin.com/peraturan-judi-dalam-talian-malaysia-yang-baru|judi online Malaysia|https://www.nova88cas.com/my/|Live
+42|https://flameesport.com/memecahkan-judi-online-malaysia-pandangan-pakar-untuk|judi online Malaysia|https://www.nova88cas.com/my/|Live
+43|https://flashesport.com/taruhan-sukan-malaysia-panduan-keputusan-untuk-pemain|sports betting Malaysia|https://www.nova88cas.com/my/|Live
+44|https://flintslot.com/panduan-autoritatif-pertaruhan-sukan-malaysia-untuk-2026|sports betting Malaysia|https://www.nova88cas.com/my/|Live
+45|https://forgeesport.com/mitos-pertaruhan-sukan-malaysia-yang-telah-dihuraikan|sports betting Malaysia|https://www.nova88cas.com/my/|Live
+46|https://galeslot.com/bolehkah-pemula-berjaya-dengan-taruhan-sukan-malaysia|sports betting Malaysia|https://www.nova88cas.com/my/|Live
+47|https://gambitesport.com/5-kebenaran-pedas-tentang-nova88-malaysia-dalam|Nova88 Malaysia|https://www.nova88cas.com/my/|Live
+48|https://geodeslot.com/6-strategi-nova88-malaysia-yang-disetujui-pakar|Nova88 Malaysia|https://www.nova88cas.com/my/|Live
+49|https://glacierslot.com/2026-laporan-industri-nova88-malaysia-strategi-menang|Nova88 Malaysia|https://www.nova88cas.com/my/|Live
+50|https://gladiusbet.com/nova88-malaysia-terbongkar-strategi-pemenang-untuk-pemain|Nova88 Malaysia|https://www.nova88cas.com/my/|Live
+51|https://glintslot.com/mengapa-slot-online-malaysia-adalah-pilihan-terbaik|slot online Malaysia|https://www.nova88cas.com/my/|Live
+52|https://gracespin.com/panduan-tanpa-keterlaluan-untuk-slot-dalam-talian|slot online Malaysia|https://www.nova88cas.com/my/|Live
+53|https://grindspin.com/kerangka-terbukti-slot-dalam-talian-malaysia-ditampilkan|slot online Malaysia|https://www.nova88cas.com/my/|Live
+54|https://harborspin.com/kerangka-praktikal-nova88-untuk-strategi-menang-2026|Nova88|https://www.nova88cas.com/my/|Live
+55|https://havenslot.com/strategi-nova88-untuk-pemain-dalam-2026|Nova88|https://www.nova88cas.com/my/|Live
+56|https://hawkesport.com/risiko-terlepas-nova88-setiap-pemain-perlu-tahu|Nova88|https://www.nova88cas.com/my/|Live
+57|https://horizonspin.com/tren-mengunjungi-laman-judi-yang-akan-mendefinisikan|visit site|https://www.nova88cas.com/my/|Live
+58|https://houndwin.com/kunjungi-laman-perbincangan-jujur-tentang-strategi-kemenangan|visit site|https://www.nova88cas.com/my/|Live
+59|https://igniteesport.com/bagaimana-menghindari-kesalahan-terbesar-klik-di-sini|click here|https://www.nova88cas.com/my/|Live
+60|https://impactesport.com/bagaimana-memilih-kasino-dalam-talian-yang-betul|click here|https://www.nova88cas.com/my/|Live
+61|https://infernospin.com/%E0%B8%A7%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%AA%E0%B8%A5%E0%B8%AD%E0%B8%95%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B8%AA%E0%B8%81%E0%B8%88%E0%B8%A7%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B3%E0%B8%A7%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%93%E0%B9%83%E0%B8%99%E0%B8%9B-2026|สล็อตออนไลน์|https://www.nova88cas.com/th/|Live
+62|https://ironesport.com/%E0%B8%96%E0%B8%B2-%E0%B8%AA%E0%B8%A5%E0%B8%AD%E0%B8%95%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99-%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B9%80%E0%B8%9E%E0%B8%A1%E0%B9%82%E0%B8%AD%E0%B8%81%E0%B8%B2%E0%B8%AA%E0%B8%8A%E0%B8%99%E0%B8%B0%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%9A%E0%B8%99%E0%B8%81%E0%B8%9E%E0%B8%99%E0%B8%99%E0%B9%83%E0%B8%99%E0%B8%9B-2026|สล็อตออนไลน์|https://www.nova88cas.com/th/|Live
+63|https://ivorywin.com/%E0%B8%A7%E0%B8%98%E0%B8%97%E0%B8%B3%E0%B9%83%E0%B8%AB%E0%B8%AA%E0%B8%A5%E0%B8%AD%E0%B8%95%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B8%87%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B8%AD%E0%B8%9C%E0%B8%A5%E0%B8%A5%E0%B8%9E%E0%B8%98%E0%B8%97%E0%B8%94%E0%B8%81%E0%B8%A7%E0%B8%B2%E0%B9%83%E0%B8%99%E0%B8%9B-2026|สล็อตออนไลน์|https://www.nova88cas.com/th/|Live
+64|https://jaguaresport.com/%E0%B8%97%E0%B8%B3%E0%B9%84%E0%B8%A1%E0%B8%84%E0%B8%B2%E0%B8%AA%E0%B9%82%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B8%96%E0%B8%87%E0%B9%84%E0%B8%94%E0%B8%A3%E0%B8%9A%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%A2%E0%B8%A1%E0%B9%80%E0%B8%9E%E0%B8%A1%E0%B8%82%E0%B8%99%E0%B9%83%E0%B8%99%E0%B8%9B-2026|คาสิโนออนไลน์|https://www.nova88cas.com/th/|Live
+65|https://javelinslot.com/10-%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B9%82%E0%B8%99%E0%B8%A1%E0%B8%84%E0%B8%B2%E0%B8%AA%E0%B9%82%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99-%E0%B8%97%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%87%E0%B8%9E%E0%B8%A5%E0%B8%81%E0%B9%82%E0%B8%89%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A5%E0%B8%99%E0%B9%83%E0%B8%99%E0%B8%9B-2026|คาสิโนออนไลน์|https://www.nova88cas.com/th/|Live
+66|https://jubilantcasino.com/20-%E0%B8%95%E0%B8%A7%E0%B9%80%E0%B8%A5%E0%B8%AD%E0%B8%81%E0%B8%84%E0%B8%B2%E0%B8%AA%E0%B9%82%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B8%97%E0%B8%94%E0%B8%97%E0%B8%AA%E0%B8%94%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%9A%E0%B8%99%E0%B8%81%E0%B8%9E%E0%B8%99%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%87%E0%B8%88%E0%B8%A3%E0%B8%87%E0%B8%88%E0%B8%87%E0%B9%83%E0%B8%99%E0%B8%9B-2026|คาสิโนออนไลน์|https://www.nova88cas.com/th/|Live
+67|https://kernelwin.com/%E0%B8%88%E0%B8%94%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B8%9A%E0%B8%95%E0%B8%A7%E0%B9%80%E0%B8%A5%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%97%E0%B8%87%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99-%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%94%E0%B8%97%E0%B8%AA%E0%B8%94%E0%B8%AA%E0%B9%81%E0%B8%A2%E0%B8%97%E0%B8%AA%E0%B8%94%E0%B9%83%E0%B8%99%E0%B8%9B-2026|แทงบอลออนไลน์|https://www.nova88cas.com/th/|Live
+68|https://knightesport.com/%E0%B8%A1%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%81%E0%B8%97%E0%B8%87%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%84%E0%B8%94%E0%B8%9C%E0%B8%A5%E0%B8%88%E0%B8%A3%E0%B8%87%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%A3-%E0%B9%81%E0%B8%84%E0%B8%AA%E0%B8%A1%E0%B8%84%E0%B8%A3%E0%B9%81%E0%B8%97%E0%B8%87%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%A2%E0%B9%84%E0%B8%94|แทงบอลออนไลน์|https://www.nova88cas.com/th/|Live
+69|https://kryptonslot.com/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%81%E0%B8%82%E0%B8%AD%E0%B8%87-nova88-malaysia-%E0%B8%97%E0%B8%99%E0%B8%81%E0%B8%9E%E0%B8%99%E0%B8%99%E0%B8%A1%E0%B8%81%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%B2%E0%B8%A1%E0%B9%83%E0%B8%99%E0%B8%9B-2026|Nova88 Malaysia|https://www.nova88cas.com/th/|Live
+70|https://lanceslot.com/nova88-malaysia-%E0%B9%80%E0%B8%9B%E0%B8%A3%E0%B8%A2%E0%B8%9A%E0%B9%80%E0%B8%97%E0%B8%A2%E0%B8%9A-%E0%B8%95%E0%B8%A7%E0%B9%80%E0%B8%A5%E0%B8%AD%E0%B8%81%E0%B8%97%E0%B8%94%E0%B8%97%E0%B8%AA%E0%B8%94%E0%B9%83%E0%B8%99%E0%B8%9B-2026-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%9A%E0%B8%99%E0%B8%81%E0%B9%80%E0%B8%94%E0%B8%A1%E0%B8%9E%E0%B8%99|Nova88 Malaysia|https://www.nova88cas.com/th/|Live
+71|https://legendesport.com/%E0%B8%A7%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A5%E0%B8%AD%E0%B8%81-nova88-%E0%B9%80%E0%B8%9E%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B8%95%E0%B8%A3%E0%B8%87%E0%B8%81%E0%B8%9A%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B9%80%E0%B8%A5%E0%B8%99%E0%B9%83%E0%B8%99%E0%B8%9B-2026|Nova88|https://www.nova88cas.com/th/|Live
+72|https://lionesport.com/%E0%B8%A7%E0%B8%98%E0%B8%97%E0%B9%82%E0%B8%99%E0%B8%A7%E0%B8%B288-%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%A2%E0%B8%99%E0%B9%81%E0%B8%9B%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%A2%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%99%E0%B8%99%E0%B8%81%E0%B8%AC%E0%B8%B2%E0%B9%83%E0%B8%99%E0%B8%9B-2026|Nova88|https://www.nova88cas.com/th/|Live
+73|https://lyricwin.com/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%8A%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%9A%E0%B9%84%E0%B8%8B%E0%B8%95-%E0%B8%9F%E0%B9%80%E0%B8%88%E0%B8%AD%E0%B8%A3%E0%B9%81%E0%B8%95%E0%B8%A5%E0%B8%B0%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%87%E0%B8%97%E0%B8%97%E0%B8%B3%E0%B9%83%E0%B8%AB%E0%B9%81%E0%B8%95%E0%B8%81%E0%B8%95%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%9A%E0%B8%99%E0%B8%81%E0%B8%9E%E0%B8%99%E0%B8%99|visit site|https://www.nova88cas.com/th/|Live
+74|https://lynxesport.com/%E0%B8%A7%E0%B8%98%E0%B8%8A%E0%B8%99%E0%B8%B0%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%82%E0%B8%99%E0%B8%94%E0%B8%A7%E0%B8%A2%E0%B8%84%E0%B8%A5%E0%B8%81%E0%B8%97%E0%B8%99-%E0%B9%80%E0%B8%97%E0%B8%84%E0%B8%99%E0%B8%84%E0%B8%9E%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B9%83%E0%B8%99%E0%B8%9B-2026|click here|https://www.nova88cas.com/th/|Live
+75|https://mantaspin.com/t%E1%BA%A1i-sao-e2bet-vi%E1%BB%87t-nam-%C4%91ang-t%C4%83ng|e2bet Việt Nam|https://e28betz.com/vn/vi/|Live
+76|https://mantleslot.com/c%C3%A1ch-t%E1%BB%B1-%C4%91%E1%BB%99ng-h%C3%B3a-quy-tr%C3%ACnh-e2bet|e2bet Việt Nam|https://e28betz.com/vn/vi/|Live
+77|https://marbleslot.com/ph%C6%B0%C6%A1ng-ph%C3%A1p-chi%E1%BA%BFn-l%C6%B0%E1%BB%A3c-e2bet-%C4%91%C4%83ng-nh%E1%BA%ADp|e2bet đăng nhập|https://e28betz.com/vn/vi/|Live
+78|https://mavenslot.com/e2bet-n%E1%BA%A1p-ti%E1%BB%81n-momo-ki%E1%BB%83m-tra-th%E1%BB%B1c|e2bet nạp tiền MoMo|https://e28betz.com/vn/vi/|Live
+79|https://mercuryslot.com/s%E1%BB%A9c-m%E1%BA%A1nh-c%E1%BB%A7a-e2bet-%C4%91%C3%A1-g%C3%A0-sv388|e2bet đá gà SV388|https://e28betz.com/vn/vi/|Live
+80|https://midnightesport.com/h%E1%BA%ADu-tr%C6%B0%E1%BB%9Dng-c%E1%BB%A7a-e28betz-c%C3%A1ch-n%C3%B3-th%E1%BB%B1c|e28betz.com|https://e28betz.com/vn/vi/|Live
+81|https://mirrorslot.com/nh%C3%A0-c%C3%A1i-uy-t%C3%ADn-v%C5%A9-kh%C3%AD-b%C3%AD|nhà cái uy tín|https://e28betz.com/vn/vi/|Live
+82|https://morphspin.com/d%E1%BB%B1-%C4%91o%C3%A1n-nh%C3%A0-c%C3%A1i-uy-t%C3%ADn-chi%E1%BA%BFn|nhà cái uy tín|https://e28betz.com/vn/vi/|Live
+83|https://mysticesport.com/top-7-c%C3%A1ch-c%C3%A1-c%C6%B0%E1%BB%A3c-b%C3%B3ng-%C4%91%C3%A1|cá cược bóng đá|https://e28betz.com/vn/vi/|Live
+84|https://nebulaesport.com/20-l%E1%BB%B1a-ch%E1%BB%8Dn-k%C3%A8o-b%C3%B3ng-%C4%91%C3%A1-h%C3%B4m|kèo bóng đá hôm nay|https://e28betz.com/vn/vi/|Live
+85|https://neonesport.com/b%E1%BA%A1n-c%C3%B3-th%E1%BB%83-th%E1%BB%B1c-s%E1%BB%B1-chi%E1%BA%BFn-th%E1%BA%AFng|tỷ lệ kèo bóng đá|https://e28betz.com/vn/vi/|Live
+86|https://obsidianslot.com/s%C3%B2ng-b%C3%A0i-tr%E1%BB%B1c-tuy%E1%BA%BFn-n%C3%B3i-th%E1%BA%ADt-v%E1%BB%81|sòng bài trực tuyến|https://e28betz.com/vn/vi/|Live
+87|https://omegaesport.com/nh%E1%BB%AFng-l%E1%BB%B1a-ch%E1%BB%8Dn-%C4%91%C3%A1-g%C3%A0-tr%E1%BB%B1c-ti%E1%BA%BFp|đá gà trực tiếp|https://e28betz.com/vn/vi/|Live
+88|https://onyxesport.com/6-chi%E1%BA%BFn-l%C6%B0%E1%BB%A3c-c%C3%A1-c%C6%B0%E1%BB%A3c-world-cup|world cup 2026 cá cược|https://e28betz.com/vn/vi/|Live
+89|https://opticslot.com/khung-c%E1%BA%A3nh-slot-game-%C4%91%E1%BB%95i-th%C6%B0%E1%BB%9Fng-c%E1%BA%ADp|slot game đổi thưởng|https://e28betz.com/vn/vi/|Live
+90|https://ozoneslot.com/nh%E1%BB%AFng-g%C3%AC-s%E1%BA%BD-x%E1%BA%A3y-ra-khi-b%E1%BA%A1n|nạp tiền nhà cái MoMo|https://e28betz.com/vn/vi/|Live
+91|https://paragonesport.com/%E1%BA%A3nh-ch%E1%BB%A5p-%C4%91%C3%A1-g%C3%A0-sv388-tr%E1%BB%B1c-ti%E1%BA%BFp|đá gà SV388 trực tiếp|https://e28betz.com/vn/vi/|Live
+92|https://phoenixesport.com/h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-t%E1%BB%91i-%C6%B0u-h%C3%B3a-hi%E1%BB%87u-su%E1%BA%A5t|khuyến mãi nạp lại 28%|https://e28betz.com/vn/vi/|Live
+93|https://pillarslot.com/apa-yang-perlu-anda-ketahui-tentang-e2bet|e2bet indonesia|https://e28betz.com/id/id/|Live
+94|https://pinnaclespin.com/e2bet-daftar-face-off-mana-yang-memberikan-nilai|e2bet daftar|https://e28betz.com/id/id/|Live
+95|https://pixelesport.com/membentengi-permainan-slot-dengan-e2bet-slot-gacor|e2bet slot gacor|https://e28betz.com/id/id/|Live
+96|https://placidcasino.com/panduan-lapangan-untuk-e2bet-link-alternatif-bagi|e2bet link alternatif|https://e28betz.com/id/id/|Live
+97|https://plasmaesport.com/e2bet-deposit-dana-cek-realita-harapan-vs|e2bet deposit dana|https://e28betz.com/id/id/|Live
+98|https://prismslot.com/6-strategi-terbukti-untuk-meningkatkan-kemenangan-di|e28betz.com indonesia|https://e28betz.com/id/id/|Live
+99|https://prowlspin.com/bagaimana-slot-gacor-mengubah-strategi-permainan-di|slot gacor|https://e28betz.com/id/id/|Live
+100|https://quakewin.com/panduan-master-slot-gacor-untuk-pemain-ambisius|slot gacor|https://e28betz.com/id/id/|Live
+101|https://quartzslot.com/putusan-akhir-tentang-slot-gacor-hari-ini|slot gacor hari ini|https://e28betz.com/id/id/|Live
+102|https://raptoresport.com/di-balik-layar-situs-slot-gacor-bagaimana|situs slot gacor|https://e28betz.com/id/id/|Live
+103|https://ravenesport.com/top-5-strategi-menang-untuk-slot-gacor|slot gacor maxwin|https://e28betz.com/id/id/|Live
+104|https://razoresport.com/situs-judi-online-terpercaya-ditinjau-analisis-komprehensif|situs judi online terpercaya|https://e28betz.com/id/id/|Live
+105|https://reefslot.com/seberapa-cepat-rtp-slot-tertinggi-dapat-menghasilkan|RTP slot tertinggi|https://e28betz.com/id/id/|Live
+106|https://relicslot.com/slot-gampang-menang-performance-tested-strategi-menang|slot gampang menang|https://e28betz.com/id/id/|Live
+107|https://rhythmcasino.com/link-alternatif-slot-online-pembicaraan-serius-tentang|link alternatif slot online|https://e28betz.com/id/id/|Live
+108|https://rippleslot.com/apa-kata-para-ahli-tentang-slot-gacor|slot gacor deposit dana|https://e28betz.com/id/id/|Live
+109|https://rogueesport.com/bagaimana-menggabungkan-slot-jili-gacor-dengan-strategi|slot jili gacor|https://e28betz.com/id/id/|Live
+110|https://rowdywin.com/dampak-slot-gacor-deposit-qris-pada-strategi|slot gacor deposit qris|https://e28betz.com/id/id/|Live
+`;
+
 export const details = [
   parse("November 2025", "93 backlinks - 31 bk8smart.com + 31 w88cas.com + 31 ft881.com", november),
   parse("December 2025", "90 backlinks - 45 bk8smart.com + 45 w88cas.com", december),
@@ -814,4 +927,5 @@ export const details = [
   parse("April 2026", "90 backlinks - 44 nova88cas.com + 46 w88cas.com", april),
   parse("May 2026", "110 backlinks - 42 nova88cas.com + 32 w88cas.com + 36 e28betz.com", may),
   parse("June 2026", "110 backlinks - 42 nova88cas.com (28 MY + 14 TH) + 32 w88cas.com (16 VI + 16 BN) + 36 e28betz.com (21 home + 15 /vn/en/)", june),
+  parse("July 2026", "110 backlinks - 32 bk8cas.com + 42 nova88cas.com (28 MY + 14 TH) + 36 e28betz.com (18 /vn/vi/ + 18 /id/id/) - all Dofollow", july),
 ];

@@ -1031,6 +1031,119 @@ const august = `
 110|https://rowdywin.com/%E0%B8%9D%E0%B8%B2%E0%B8%81%E0%B8%96%E0%B8%AD%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B9%82%E0%B8%95-survival-guide-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%83%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%94%E0%B8%A1%E0%B8%9E%E0%B8%99%E0%B8%84%E0%B8%B2%E0%B8%AA%E0%B9%82%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B8%9B-2026|ฝากถอนออโต้|https://th88fun.com|Live
 `;
 
+const september = `
+1|https://abyssslot.com/how-to-automate-your-best-online-casinos|best online casinos in Asia|https://eightodds.com/|Live
+2|https://altitudespin.com/best-online-casinos-in-asia-masterclass-winning|best online casinos in Asia|https://eightodds.com/|Live
+3|https://anvilplay.com/why-should-gamblers-care-about-the-best|best online casinos in Asia|https://eightodds.com/|Live
+4|https://arcticslot.com/how-to-leverage-the-best-online-casinos|best online casinos in Asia|https://eightodds.com/|Live
+5|https://ardorwin.com/how-to-build-a-winning-strategy-for|best online casinos in Asia|https://eightodds.com/|Live
+6|https://argoncasino.com/7-key-advantages-of-the-best-online|best online casinos in Asia|https://eightodds.com/|Live
+7|https://armadaspin.com/a-sustainable-best-online-casinos-in-asia|best online casinos in Asia|https://eightodds.com/|Live
+8|https://astralesport.com/what-happens-when-you-ignore-best-online|best online casinos in Asia|https://eightodds.com/|Live
+9|https://atlasesport.com/the-2026-best-online-casinos-in-asia|best online casinos in Asia|https://eightodds.com/|Live
+10|https://azureesport.com/9-essential-best-online-casinos-in-asia|best online casinos in Asia|https://eightodds.com/|Live
+11|https://basaltslot.com/before-you-start-best-online-casinos-in|best online casinos in Asia|https://eightodds.com/|Live
+12|https://battleesport.com/best-online-casinos-in-asia-how-to|best online casinos in Asia|https://eightodds.com/|Live
+13|https://beastesport.com/a-trusted-betting-sites-asia-primer-for|trusted betting sites Asia|https://eightodds.com/|Live
+14|https://berylslot.com/the-insiders-guide-to-trusted-betting-sites|trusted betting sites Asia|https://eightodds.com/|Live
+15|https://blastesport.com/trusted-betting-sites-asia-compared-the-best|trusted betting sites Asia|https://eightodds.com/|Live
+16|https://blazonwin.com/the-great-trusted-betting-sites-asia-battle|trusted betting sites Asia|https://eightodds.com/|Live
+17|https://boulderslot.com/every-trusted-betting-sites-asia-option-ranked|trusted betting sites Asia|https://eightodds.com/|Live
+18|https://brocadecasino.com/the-trusted-betting-sites-asia-multiplier-effect|trusted betting sites Asia|https://eightodds.com/|Live
+19|https://bronzegaming.com/can-you-really-succeed-with-trusted-betting|trusted betting sites Asia|https://eightodds.com/|Live
+20|https://burstspin.com/the-trusted-betting-sites-asia-cheat-sheet|trusted betting sites Asia|https://eightodds.com/|Live
+21|https://canyonspin.com/best-online-casinos-asia-face-off-which-one|best online casinos Asia|https://eightodds.com/best-online-casinos/|Live
+22|https://cascadeslot.com/best-online-casinos-asia-2026-update-strategies|best online casinos Asia|https://eightodds.com/best-online-casinos/|Live
+23|https://chakraslot.com/how-to-profit-from-best-online-casinos|best online casinos Asia|https://eightodds.com/best-online-casinos/|Live
+24|https://chanceslot.com/how-to-spot-best-online-casinos-asia|best online casinos Asia|https://eightodds.com/best-online-casinos/|Live
+25|https://chromeesport.com/what-is-best-online-casinos-asia-and|best online casinos Asia|https://eightodds.com/best-online-casinos/|Live
+26|https://clashesport.com/the-best-online-casinos-asia-landscape-in|best online casinos Asia|https://eightodds.com/best-online-casinos/|Live
+27|https://cobaltesport.com/how-to-leverage-the-best-online-casinos|best online casinos Asia|https://eightodds.com/best-online-casinos/|Live
+28|https://commandslot.com/how-to-get-better-best-online-casinos|best online casinos Asia|https://eightodds.com/best-online-casinos/|Live
+29|https://crimsonesport.com/best-online-casinos-asia-in-2026-still|best online casinos Asia|https://eightodds.com/best-online-casinos/|Live
+30|https://crispwin.com/unpopular-best-online-casinos-asia-opinion-why|best online casinos Asia|https://eightodds.com/best-online-casinos/|Live
+31|https://crownesport.com/do-online-casino-reviews-actually-deliver-winning|online casino reviews|https://eightodds.com/best-online-casinos/|Live
+32|https://cypherspin.com/new-online-casino-reviews-rules-every-gambler|online casino reviews|https://eightodds.com/best-online-casinos/|Live
+33|https://dawnslot.com/winning-with-online-casino-reviews-strategies-for|online casino reviews|https://eightodds.com/best-online-casinos/|Live
+34|https://detourspin.com/online-casino-reviews-success-stories-how-players|online casino reviews|https://eightodds.com/best-online-casinos/|Live
+35|https://diamondesport.com/a-no-nonsense-guide-to-online-casino-reviews|online casino reviews|https://eightodds.com/best-online-casinos/|Live
+36|https://dunespin.com/online-casino-reviews-2026-report-card-pass|online casino reviews|https://eightodds.com/best-online-casinos/|Live
+37|https://duskslot.com/what-pros-know-about-online-casino-reviews|online casino reviews|https://eightodds.com/best-online-casinos/|Live
+38|https://dynamowin.com/how-to-master-top-casino-sites-for|top casino sites|https://eightodds.com/best-online-casinos/|Live
+39|https://epochspin.com/unpopular-top-casino-sites-opinion-why-high|top casino sites|https://eightodds.com/best-online-casinos/|Live
+40|https://fablegaming.com/is-there-a-better-alternative-to-top-1|top casino sites|https://eightodds.com/best-online-casinos/|Live
+41|https://feralwin.com/the-sports-betting-sites-asia-cheat-sheet|sports betting sites Asia|https://eightodds.com/sports-betting/|Live
+42|https://flameesport.com/sports-betting-sites-asia-performance-boost-strategic|sports betting sites Asia|https://eightodds.com/sports-betting/|Live
+43|https://flashesport.com/sports-betting-sites-asia-compared-the-essential|sports betting sites Asia|https://eightodds.com/sports-betting/|Live
+44|https://flintslot.com/battle-tested-sports-betting-sites-asia-tactics-for|sports betting sites Asia|https://eightodds.com/sports-betting/|Live
+45|https://forgeesport.com/7-warning-signs-when-choosing-sports-betting|sports betting sites Asia|https://eightodds.com/sports-betting/|Live
+46|https://galeslot.com/tested-sports-betting-sites-asia-methods-what|sports betting sites Asia|https://eightodds.com/sports-betting/|Live
+47|https://gambitesport.com/sports-betting-sites-asia-explained-simply-for|sports betting sites Asia|https://eightodds.com/sports-betting/|Live
+48|https://geodeslot.com/a-no-nonsense-guide-to-sports-betting-sites|sports betting sites Asia|https://eightodds.com/sports-betting/|Live
+49|https://glacierslot.com/best-sportsbooks-2026-report-card-essential-strategies|best sportsbooks|https://eightodds.com/sports-betting/|Live
+50|https://gladiusbet.com/how-to-leverage-the-best-sportsbooks-for|best sportsbooks|https://eightodds.com/sports-betting/|Live
+51|https://glintslot.com/long-term-best-sportsbooks-strategy-building-lasting-winning|best sportsbooks|https://eightodds.com/sports-betting/|Live
+52|https://gracespin.com/whats-new-in-best-sportsbooks-for-2026|best sportsbooks|https://eightodds.com/sports-betting/|Live
+53|https://grindspin.com/11-key-best-sportsbooks-factors-that-matter|best sportsbooks|https://eightodds.com/sports-betting/|Live
+54|https://harborspin.com/football-betting-sites-as-your-competitive-advantage|football betting sites|https://eightodds.com/sports-betting/|Live
+55|https://havenslot.com/behind-the-scenes-of-football-betting-sites|football betting sites|https://eightodds.com/sports-betting/|Live
+56|https://hawkesport.com/the-daily-football-tips-operations-manual-for|daily football tips|https://eightodds.com/tips/|Live
+57|https://horizonspin.com/your-2026-daily-football-tips-action-plan|daily football tips|https://eightodds.com/tips/|Live
+58|https://houndwin.com/the-daily-football-tips-cheat-sheet-every|daily football tips|https://eightodds.com/tips/|Live
+59|https://igniteesport.com/can-you-really-boost-your-winning-strategies|daily football tips|https://eightodds.com/tips/|Live
+60|https://impactesport.com/top-7-ways-daily-football-tips-change|daily football tips|https://eightodds.com/tips/|Live
+61|https://infernospin.com/a-fresh-look-at-daily-football-tips|daily football tips|https://eightodds.com/tips/|Live
+62|https://ironesport.com/should-you-try-daily-football-tips-heres|daily football tips|https://eightodds.com/tips/|Live
+63|https://ivorywin.com/elevate-your-game-with-daily-football-tips|daily football tips|https://eightodds.com/tips/|Live
+64|https://jaguaresport.com/how-to-win-more-with-free-football|free football predictions|https://eightodds.com/tips/|Live
+65|https://javelinslot.com/how-to-switch-to-free-football-predictions|free football predictions|https://eightodds.com/tips/|Live
+66|https://jubilantcasino.com/the-quiet-free-football-predictions-revolution-happening|free football predictions|https://eightodds.com/tips/|Live
+67|https://kernelwin.com/will-free-football-predictions-still-be-essential|free football predictions|https://eightodds.com/tips/|Live
+68|https://knightesport.com/when-is-the-best-time-to-use|today's betting tips|https://eightodds.com/tips/|Live
+69|https://kryptonslot.com/a-todays-betting-tips-primer-for-those|today's betting tips|https://eightodds.com/tips/|Live
+70|https://lanceslot.com/7-warning-signs-when-choosing-todays-betting|today's betting tips|https://eightodds.com/tips/|Live
+71|https://legendesport.com/the-todays-betting-tips-roadmap-essential-strategies|today's betting tips|https://eightodds.com/tips/|Live
+72|https://lionesport.com/todays-betting-tips-decoded-making-sense-of|today's betting tips|https://eightodds.com/tips/|Live
+73|https://lyricwin.com/certified-online-casino-bonuses-strategies-for-professional|online casino bonuses|https://eightodds.com/tips/|Live
+74|https://lynxesport.com/how-online-casino-bonuses-can-change-your|online casino bonuses|https://eightodds.com/tips/|Live
+75|https://mantaspin.com/8-overlooked-online-casino-bonuses-features-worth|online casino bonuses|https://eightodds.com/tips/|Live
+76|https://mantleslot.com/how-to-recover-from-online-casino-bonuses|online casino bonuses|https://eightodds.com/bonuses/|Live
+77|https://marbleslot.com/unpopular-online-casino-bonuses-opinion-why-planning|online casino bonuses|https://eightodds.com/bonuses/|Live
+78|https://mavenslot.com/how-to-get-the-most-out-of|welcome bonus casino|https://eightodds.com/bonuses/|Live
+79|https://mercuryslot.com/5-hard-won-welcome-bonus-casino-lessons-from|welcome bonus casino|https://eightodds.com/bonuses/|Live
+80|https://midnightesport.com/a-field-guide-to-welcome-bonus-casino|welcome bonus casino|https://eightodds.com/bonuses/|Live
+81|https://mirrorslot.com/vetted-baccarat-guide-options-for-discerning-gamblers|baccarat guide|https://eightodds.com/bonuses/|Live
+82|https://morphspin.com/is-the-baccarat-guide-overrated-a-critical|baccarat guide|https://eightodds.com/bonuses/|Live
+83|https://mysticesport.com/breaking-how-to-play-slots-down-an|how to play slots|https://eightodds.com/bonuses/|Live
+84|https://nebulaesport.com/5-essential-how-to-play-slots-lessons|how to play slots|https://eightodds.com/bonuses/|Live
+85|https://neonesport.com/roulette-strategy-red-flags-signs-you-should|roulette strategy|https://eightodds.com/bonuses/|Live
+86|https://obsidianslot.com/long-term-roulette-strategy-building-lasting-bankroll-management|roulette strategy|https://eightodds.com/bonuses/|Live
+87|https://omegaesport.com/getting-the-casino-review-edge-essential-strategies|casino review|https://eightodds.com/bonuses/|Live
+88|https://onyxesport.com/5-common-sportsbook-review-mistakes-players-make|sportsbook review|https://eightodds.com/bonuses/|Live
+89|https://opticslot.com/why-eightodds-is-better-than-competitors-for|EightOdds|https://eightodds.com/bonuses/|Live
+90|https://ozoneslot.com/the-complete-eightodds-betting-guide-for-gamblers|EightOdds|https://eightodds.com/bonuses/|Live
+91|https://paragonesport.com/expert-eightodds-picks-for-gamblers-in-2026|EightOdds|https://eightodds.com/games/|Live
+92|https://phoenixesport.com/why-most-people-get-eightodds-wrong-and|EightOdds|https://eightodds.com/games/|Live
+93|https://pillarslot.com/eightodds-masterclass-essential-strategies-for-winning-casino|EightOdds|https://eightodds.com/games/|Live
+94|https://pinnaclespin.com/does-eightodds-actually-deliver-our-2026-verdict|EightOdds|https://eightodds.com/games/|Live
+95|https://pixelesport.com/vetted-eight-odds-options-for-discerning-gamblers|Eight Odds|https://eightodds.com/games/|Live
+96|https://placidcasino.com/7-key-advantages-of-eight-odds-live|Eight Odds|https://eightodds.com/games/|Live
+97|https://plasmaesport.com/eight-odds-casino-game-selection-standards-you|Eight Odds|https://eightodds.com/games/|Live
+98|https://prismslot.com/unpopular-eight-odds-opinion-why-live-dealer|Eight Odds|https://eightodds.com/games/|Live
+99|https://prowlspin.com/6-expert-approved-eight-odds-strategies-for-winning|Eight Odds|https://eightodds.com/games/|Live
+100|https://quakewin.com/how-to-automate-your-eight-odds-betting|Eight Odds|https://eightodds.com/games/|Live
+101|https://quartzslot.com/how-to-switch-to-eightodds-without-missing|eightodds.com|https://eightodds.com/reviews/|Live
+102|https://raptoresport.com/what-pros-know-about-eightodds-that-you|eightodds.com|https://eightodds.com/reviews/|Live
+103|https://ravenesport.com/every-eightodds-casino-option-ranked-from-best|eightodds.com|https://eightodds.com/reviews/|Live
+104|https://razoresport.com/how-fast-can-eightodds-deliver-winning-strategies|eightodds.com|https://eightodds.com/reviews/|Live
+105|https://reefslot.com/eightodds-lies-exposed-setting-the-record-straight|eightodds.com|https://eightodds.com/reviews/|Live
+106|https://relicslot.com/6-critical-read-more-metrics-gambers-should|read more|https://eightodds.com/reviews/|Live
+107|https://rhythmcasino.com/will-read-more-still-be-relevant-for|read more|https://eightodds.com/reviews/|Live
+108|https://rippleslot.com/a-read-more-snapshot-quick-2026-status|read more|https://eightodds.com/reviews/|Live
+109|https://rogueesport.com/the-authoritative-this-guide-for-2026-strategic|this guide|https://eightodds.com/reviews/|Live
+110|https://rowdywin.com/when-is-the-best-time-to-use-1|this guide|https://eightodds.com/reviews/|Live
+`;
+
 export const details = [
   parse("November 2025", "93 backlinks - 31 bk8smart.com + 31 w88cas.com + 31 ft881.com", november),
   parse("December 2025", "90 backlinks - 45 bk8smart.com + 45 w88cas.com", december),
@@ -1042,4 +1155,5 @@ export const details = [
   parse("June 2026", "110 backlinks - 42 nova88cas.com (28 MY + 14 TH) + 32 w88cas.com (16 VI + 16 BN) + 36 e28betz.com (21 home + 15 /vn/en/)", june),
   parse("July 2026", "110 backlinks - 32 bk8cas.com + 42 nova88cas.com (28 MY + 14 TH) + 36 e28betz.com (18 /vn/vi/ + 18 /id/id/) - all Dofollow", july),
   parse("August 2026", "110 backlinks - 32 bk8cas.com + 42 nova88cas.com (28 MY + 14 TH) + 36 th88fun.com (Thai) - all Dofollow", august),
+  parse("September 2026", "110 backlinks - 110 eightodds.com (20 home + 20 /best-online-casinos/ + 15 /sports-betting/ + 20 /tips/ + 15 /bonuses/ + 10 /games/ + 10 /reviews/) - all Dofollow", september),
 ];

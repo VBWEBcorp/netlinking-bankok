@@ -172,4 +172,40 @@ export const monthly = [
       "Next milestones by end of August: nova88cas.com DA 10, e28betz.com DA 5, bk8cas.com DA 2-3.",
     ],
   },
+  {
+    month: "August 2026",
+    phase: "Thailand Layer: th88fun.com Added, e28betz.com Paused",
+    domains: [
+      { domain: "nova88cas.com", backlinks: "-", refDomains: "-", da: "-", follow: "-", spam: "-", status: "✓ On Track", vsPrevious: "42 links placed / Malaysia /my/ + Thailand /th/" },
+      { domain: "bk8cas.com", backlinks: "-", refDomains: "-", da: "-", follow: "-", spam: "-", status: "✓ On Track", vsPrevious: "32 links placed / second month after launch" },
+      { domain: "th88fun.com", backlinks: "-", refDomains: "-", da: "-", follow: "-", spam: "-", status: "⚠ Launch", vsPrevious: "New domain (Thailand only): 36 links placed" },
+      { domain: "e28betz.com", backlinks: "-", refDomains: "-", da: "-", follow: "-", spam: "-", status: "Paused", vsPrevious: "No new links this month, replaced by th88fun.com at the client's request" },
+    ],
+    summary:
+      "110 managed editorial placements delivered this month: 42 for nova88cas.com (28 Malaysia /my/ + 14 Thailand /th/), 32 for bk8cas.com and 36 for the newly added th88fun.com (Thai-language, Thailand only). All 110 placements are Dofollow and verified Live.\n\nAt the client's request, th88fun.com joins the campaign for this cycle and e28betz.com is paused for the month, so the volume and the budget stay unchanged (no extra charge). bk8cas.com continues with the BK8 keyword set, with the generic anchors the client asked to drop (BK8 Smart, bk8smart.com, click here, visit website) removed from the bk8cas.com batch. th88fun.com receives Thai-language anchors (คาสิโนออนไลน์, แทงบอลออนไลน์, เว็บตรง, สล็อตเว็บตรง) for local relevance.\n\nAhrefs measurements for this cycle are not yet available and will be added to this tab once the monthly crawl is complete. See the August tab for the full backlink list (110 links).",
+    recommendations: [
+      "Add the Ahrefs snapshot (backlinks, referring domains, DA, follow ratio, spam) for nova88cas.com, bk8cas.com and th88fun.com once the monthly crawl is complete.",
+      "Check that bk8cas.com and th88fun.com are indexed on both Google and Bing in Search Console and Bing Webmaster Tools.",
+      "Decide with the client whether e28betz.com resumes in the next cycles or stays paused.",
+      "Keep dofollow placements as the priority on the two newest domains.",
+    ],
+  },
+  {
+    month: "September 2026",
+    phase: "eightodds.com Launch & 80/15/5 Anchor Strategy",
+    domains: [
+      { domain: "eightodds.com", backlinks: "-", refDomains: "-", da: "-", follow: "-", spam: "-", status: "⚠ Launch", vsPrevious: "New domain: 110 links placed, all Dofollow and Live" },
+      { domain: "nova88cas.com", backlinks: "-", refDomains: "-", da: "-", follow: "-", spam: "-", status: "Paused", vsPrevious: "No new links this month, budget focused on eightodds.com" },
+      { domain: "bk8cas.com", backlinks: "-", refDomains: "-", da: "-", follow: "-", spam: "-", status: "Paused", vsPrevious: "No new links this month, budget focused on eightodds.com" },
+      { domain: "th88fun.com", backlinks: "-", refDomains: "-", da: "-", follow: "-", spam: "-", status: "Paused", vsPrevious: "No new links this month, budget focused on eightodds.com" },
+    ],
+    summary:
+      "This month the whole batch of 110 editorial placements is dedicated to eightodds.com, the client's new English-language Asian iGaming affiliate site (casino rankings, sports betting reviews, daily football tips, bonuses, game guides, 11 Asian markets). All 110 placements are Dofollow and verified Live, each one on a different referring domain. See the September tab for the full backlink list (110 links).\n\nAs agreed with the client, the anchor profile moves to 80% optimized anchors, 15% brand anchors and 5% generic anchors (88 optimized, 17 brand, 5 generic over the 110 links), with no exact anchor repeated more than 3 times so that the profile stays natural. The links are spread across the main sections of the site: homepage (20), best online casinos (20), sports betting (15), daily tips (20), bonuses (15), games (10) and reviews (10). Each article is written in English, with the link placed inside the body text, Dofollow, on a different domain for each link, and the topic matches the anchor and the target page.\n\nBecause eightodds.com is a brand-new domain, the publications are spread over several weeks rather than all at once, to keep a progressive and natural growth curve. nova88cas.com, bk8cas.com and th88fun.com receive no new links this cycle. No Ahrefs measurement is reported for this month: the new domain has not been crawled with its links yet, and the other three domains are unchanged.",
+    recommendations: [
+      "Take a first Ahrefs snapshot of eightodds.com about 3 to 4 weeks after the first publications, then monthly.",
+      "Make sure all eightodds.com pages receiving links are indexed (sitemap submitted in Google Search Console and Bing Webmaster Tools).",
+      "Review in October what the 80/15/5 anchor split moves in the rankings, then decide on the volume and the quality of the next batches.",
+      "Decide with the client how the budget is shared between eightodds.com and the three other domains from October.",
+    ],
+  },
 ];

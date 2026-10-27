@@ -208,4 +208,20 @@ export const monthly = [
       "Decide with the client how the budget is shared between eightodds.com and the three other domains from October.",
     ],
   },
+  {
+    month: "October 2026",
+    phase: "Quality Phase: Selective Placements on eightodds.com",
+    domains: [
+      { domain: "eightodds.com", backlinks: "-", refDomains: "-", da: "-", follow: "-", spam: "-", status: "✓ Active", vsPrevious: "Second month of the campaign, placements in progress" },
+    ],
+    summary:
+      "October builds on the 110 placements delivered in September on eightodds.com. The volume phase did its job: the domain now has a first base of referring domains, with an 80% optimized, 15% brand and 5% generic anchor profile spread over the main sections of the site (homepage, best online casinos, sports betting, daily tips, bonuses, games and reviews).\n\nThis cycle moves from volume to quality, as announced at the end of September. The placements are more selective, on sites with real organic traffic and a closer topical link to online casinos, sports betting and football tips, with articles written in English and the link placed inside the body text. The anchor logic stays the same (mostly optimized anchors on the commercial terms of each section, a share of brand anchors kept to stay natural), and the pages that already receive the most links are balanced with the sections that have received fewer so far.\n\nThe placements are currently being produced and published. The list of live links will be added to the October tab of the Backlink Detail section as soon as each batch is verified, and this summary will be completed with the Ahrefs snapshot (backlinks, referring domains, DA, follow ratio, spam) once the monthly crawl is available.",
+    recommendations: [
+      "Add the live links to the October tab of the Backlink Detail section batch by batch (live URL, anchor, target page, status).",
+      "Take the Ahrefs snapshot of eightodds.com for September and October once the crawl catches up, then complete the table above.",
+      "Compare the pages that received the most links in September with their positions in Search Console and Bing Webmaster Tools, to see what the 80/15/5 split actually moves.",
+      "Keep the indexation of every linked page under control (sitemap submitted, key pages inspected).",
+      "Decide with the client whether the quality batches continue on eightodds.com alone or are shared with the other domains from November.",
+    ],
+  },
 ];
